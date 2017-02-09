@@ -1,0 +1,5 @@
+rmmod rtl8723be
+rmmod rtl_pci
+rmmod btcoexist
+rmmod rtlwifi
+modprobe rtl8723be
